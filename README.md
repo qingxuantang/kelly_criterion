@@ -43,7 +43,7 @@ Sum leverage: 1.92
 
 Dependencies
 ------------
-  * Python 2.7
+  * Python 3
   * [Numpy](http://www.numpy.org/)
   * [Pandas](http://pandas.pydata.org/)
   * [Docopt](http://docopt.org/)
