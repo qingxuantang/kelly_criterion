@@ -1,3 +1,8 @@
+<bold>Please note:
+
+This Repo is no longer under maintenance since the relevant module has been integrated into the <a href='https://github.com/qingxuantang/Chinese_stock_picker'>Chinese_Stock_Picker</a> repo.</bold>
+
+
 Kelly Criterion
 ===============
 Money management strategy based on Kelly J. L.'s formula described in "A New Interpretation of Information Rate" [1]. 
